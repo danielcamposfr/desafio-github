@@ -1,0 +1,22 @@
+--> git status – mostra o estado no ciclo de vida do arquivo, no Git.
+
+--> mkdir – cria uma pasta.
+
+--> mv “nome do arquivo” “pasta que o arquivo será movido” – mover arquivo para outra pasta. Ex.: "mv receitas.txt receitas/"
+
+--> cd – entrar em outra pasta.
+
+--> cd .. – voltar uma pasta.
+
+--> git pull origin main – “puxa” o arquivo do GitHub, em caso de conflito no versionamento do código.
+
+--> git clone “url…” - clona o repositório de um outro usuário no GitHub.
+
+
+Os três próximo acredito que seja os mais usados e coloquei na ordem que geralmente são utilizados:
+
+1. git add * - passa todos os arquivos do repositório para o estado de “unstage”
+
+2. git commit – cria o “snapshot” (fotografia) – passando o diretório para um estado de Unmodified no ciclo de vida do Git.
+
+3. git push origin main – enviar repositorio para o GitHub.
