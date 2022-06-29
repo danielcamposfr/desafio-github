@@ -1,4 +1,4 @@
-# desafio-github
+# Desafio-GitHub
 Desafio de projeto sobre Git/GitHub
 
 ## Links úteis:
